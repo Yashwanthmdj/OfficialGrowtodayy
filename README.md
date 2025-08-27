@@ -172,7 +172,7 @@ This project is licensed under the MIT License.
 ## 📞 Support
 
 For support or questions:
-- **Email**: hello@growtodayy.com
+- **Email**: Grow.todayy@gmail.com
 - **Instagram**: [@growtodayy](https://instagram.com/growtodayy)
 
 ---
